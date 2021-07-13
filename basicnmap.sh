@@ -8,4 +8,4 @@ touch $ipAddress.txt
 
 nmap -sV -sC -A $ipAddress > $ipAddress.txt
 
-#cat $ipAddress.txt
+cat $ipAddress.txt
