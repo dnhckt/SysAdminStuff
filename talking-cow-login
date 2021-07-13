@@ -1,5 +1,7 @@
 #!/bin/bash
-fortune | cowthink
 
 # save as /etc/motd.sh
 # then add to the end of /etc/profile: /etc/./motd.sh 
+
+fortune -sa | cowthink -f tux
+
