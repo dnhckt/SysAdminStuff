@@ -61,4 +61,3 @@ PS1+="\[${green}\]\w"; # working directory
 PS1+="\n";
 PS1+="\[${white}\]\$ \[${reset}\]"; # `$` (and reset color)
 export PS1;
-`
