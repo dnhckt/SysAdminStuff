@@ -5,6 +5,8 @@
 #       ./testbox-setup.sh        #
 ###################################
 
+#wget https://raw.githubusercontent.com/dnhckt/SysAdminStuff/main/testbox-setup.sh; chmod +x testbox-setup.sh; ./testbox-setup.sh; rm testbox-setup.sh
+
 G="\e[32m" # Green
 N="\e[0m" # White
 
