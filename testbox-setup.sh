@@ -37,7 +37,7 @@ sudo apt install -qyf dnsutils whois openssl nmap netcat atop apache2 nginx mari
 echo -e "${G}Installing scripts from github.com/dnhckt/SysAdminStuff ${N}"  
 echo ""
 
-scripts=("https://raw.githubusercontent.com/dnhckt/abuseipdb-cli/master/abusecheck.sh https://raw.githubusercontent.com/dnhckt/SysAdminStuff/main/custom-bash-prompt https://raw.githubusercontent.com/dnhckt/SysAdminStuff/main/talking-cow-login https://raw.githubusercontent.com/dnhckt/SysAdminStuff/main/sshkeygen.sh https://raw.githubusercontent.com/dnhckt/SysAdminStuff/main/basicnmap.sh https://raw.githubusercontent.com/dnhckt/SysAdminStuff/main/bashscriptgen.sh" "https://raw.githubusercontent.com/dnhckt/SysAdminStuff/main/sitecheck.sh" "https://raw.githubusercontent.com/dnhckt/SysAdminStuff/main/aliasgen.sh")
+scripts=("https://raw.githubusercontent.com/dnhckt/abuseipdb-cli/master/abusecheck.sh https://raw.githubusercontent.com/dnhckt/SysAdminStuff/main/custom-bash-prompt https://raw.githubusercontent.com/dnhckt/SysAdminStuff/main/talking-cow-login https://raw.githubusercontent.com/dnhckt/SysAdminStuff/main/sshkeygen.sh https://raw.githubusercontent.com/dnhckt/SysAdminStuff/main/basicnmap.sh https://raw.githubusercontent.com/dnhckt/SysAdminStuff/main/bashscriptgen.sh https://raw.githubusercontent.com/dnhckt/SysAdminStuff/main/sitecheck.sh https://raw.githubusercontent.com/dnhckt/SysAdminStuff/main/aliasgen.sh")
 
 mkdir /tmp/scripts;
 cd /tmp/scripts;
