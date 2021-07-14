@@ -3,6 +3,8 @@
 ### aliases
 alias ll='ls -l'
 alias myip='curl ipv4.icanhazip.com'
+alias sc='sitecheck'
+alias ipdb='abusecheck'
 
 #colours
 if [[ $COLORTERM = gnome-* && $TERM = xterm ]] && infocmp gnome-256color >/dev/null 2>&1; then
