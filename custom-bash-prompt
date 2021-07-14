@@ -1,4 +1,7 @@
-### >> .bashrc
+############################
+# Custom Bash Prompt Stuff #
+#    Add this to .bashrc   #
+############################
 
 ### aliases
 alias ll='ls -l'
