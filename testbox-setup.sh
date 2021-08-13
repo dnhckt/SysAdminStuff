@@ -30,7 +30,7 @@ echo -e "${G}Installing juicy packages ${N}"
 echo ""
 
 sudo apt update -y
-sudo apt install -qyf dnsutils whois openssl nmap netcat git atop apache2 nginx mariadb-server python python3 tmux vim cowsay fortune fortunes-off 
+sudo apt install -qyf dnsutils whois openssl nmap netcat git atop apache2 nginx mariadb-server python python3 tmux vim net-tools cowsay fortune fortunes-off 
 
 ###
 # Install custom scripts
